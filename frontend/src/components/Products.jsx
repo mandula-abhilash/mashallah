@@ -17,37 +17,37 @@ const products = [
     name: "Special Curry Cut",
     description: "Perfect size pieces for your curry dishes",
     price: "₹800/kg",
-    image: "https://images.pexels.com/photos/6896428/pexels-photo-6896428.jpeg",
+    image: "/images/curry-cut.webp",
   },
   {
     name: "Premium Biryani Cut",
     description: "Large, juicy pieces ideal for biryani",
     price: "₹850/kg",
-    image: "https://images.pexels.com/photos/7474203/pexels-photo-7474203.jpeg",
+    image: "/images/biryani-cut.jpg",
   },
   {
     name: "Boneless Premium",
     description: "Tender, clean boneless meat",
     price: "₹950/kg",
-    image: "https://images.pexels.com/photos/6896378/pexels-photo-6896378.jpeg",
+    image: "/images/boneless.jpg",
   },
   {
     name: "Fresh Liver",
     description: "Clean and fresh mutton liver",
     price: "₹400/kg",
-    image: "https://images.pexels.com/photos/6896386/pexels-photo-6896386.jpeg",
+    image: "/images/liver.jpg",
   },
   {
     name: "Soup Special",
     description: "Perfect for nutritious soups",
     price: "₹600/kg",
-    image: "https://images.pexels.com/photos/6896397/pexels-photo-6896397.jpeg",
+    image: "/images/soup-cut.jpg",
   },
   {
     name: "Whole Goat",
     description: "Farm-fresh whole goat, custom cut",
     price: "Price on request",
-    image: "https://images.pexels.com/photos/6896401/pexels-photo-6896401.jpeg",
+    image: "/images/whole-goat.webp",
   },
 ];
 

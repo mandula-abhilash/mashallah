@@ -13,7 +13,7 @@ export default function Hero() {
     >
       <div className="absolute inset-0 z-0">
         <Image
-          src="https://images.pexels.com/photos/6896379/pexels-photo-6896379.jpeg"
+          src="/images/goat.webp"
           alt="Fresh mutton background"
           fill
           className="object-cover brightness-[0.3]"
